@@ -1,0 +1,12 @@
+{
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": {
+                    "foreground": "#c2fa0a" // Replace this with your desired hex color code
+                }
+            }
+        ]
+    }
+}
